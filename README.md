@@ -1,23 +1,74 @@
-<h1 align="center">Hi 👋, I'm Mohit Guleria</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+# Mohit Guleria
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🛠️ Shopify & WordPress Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-guleria&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-guleria" /> </p>
+### About Me
+I'm a software developer with 2.6 years of experience building e-commerce solutions on Shopify and content management systems on WordPress. I love creating seamless digital experiences that drive business growth.
 
-- 🌱 I’m currently learning **Shopify, WordPress**
+---
 
-- 📫 How to reach me **mr.ayushguleria@gmail.com**
+## 🔧 Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Shopify Expertise
+- Liquid templating
+- Shopify Theme Development & Customization
+- Shopify App Development
+- Store setup & migration
+- API integrations (REST, GraphQL)
+- Performance optimization
+- Checkout customization
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### WordPress Mastery
+- Theme development (PHP, HTML5, CSS3)
+- Plugin development
+- WooCommerce integration
+- Custom post types & taxonomies
+- Gutenberg block development
+- Security hardening
+- Speed optimization
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-guleria&show_icons=true&locale=en&layout=compact" alt="ayush-guleria" /></p>
+### Core Technologies
+- JavaScript (ES6+), jQuery
+- PHP, MySQL
+- HTML5, CSS3
+- Git, GitHub, CI/CD
+- Docker, Local development environments
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-guleria&show_icons=true&locale=en" alt="ayush-guleria" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-guleria&" alt="ayush-guleria" /></p> 
+## 💼 Professional Experience
+
+### Sofware Developer
+**RV Technologies** | July/2025 - Present  
+- Developed and maintained 3 Shopify stores with average conversion rate increase of [X]%
+
+### Sofware Developer
+**CS Soft Solutions** | January/2023 - June/2025  
+- Built 20 WordPress sites with custom themes from scratch
+- Optimized Shopify stores leading to 80% improvement in page load speed
+- Integrated third-party APIs (payment gateways, CRMs, etc.)
+
+---
+
+## 🏆 Projects & Achievements
+
+### Shopify Projects
+- [Project Name]: Brief description and technologies used [Live Demo](#) | [GitHub Repo](#)
+- [Project Name]: Brief description and technologies used [Live Demo](#) | [GitHub Repo](#)
+
+### WordPress Projects
+- [Project Name]: Brief description and technologies used [Live Demo](#) | [GitHub Repo](#)
+- [Project Name]: Brief description and technologies used [Live Demo](#) | [GitHub Repo](#)
+
+---
+
+## 📚 Education & Certifications
+- BCA, HPU Shimla, 2020
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: [Your LinkedIn](#)
+- Portfolio: [Your Portfolio Website](#)
+- Email: your.email@example.com
+- Twitter: [@YourHandle](#)
